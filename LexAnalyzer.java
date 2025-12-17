@@ -1,3 +1,4 @@
+package LexAnalyzer;
 /* LexAnalyzer.java - a lexical analyzer system for simple arithmetic expressions */
 import java.io.*;
 
